@@ -1,0 +1,33 @@
+body{
+    background-color: #bfd1d9;
+    font-size: 20px;
+}
+
+h1  {
+    color: orange;
+}
+
+h2  {
+    color: maroon;
+}
+
+img { 
+    size: 50px;
+}
+
+ul  {
+    color:maroon;
+
+}
+
+ol {
+    color: maroon;
+}
+
+b   {
+    color: orangered;
+}
+
+p   {
+    color: greenyellow;
+}
